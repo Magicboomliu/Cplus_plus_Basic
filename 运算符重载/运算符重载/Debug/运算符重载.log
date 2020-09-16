@@ -1,0 +1,3 @@
+﻿  自增运算符的重载.cpp
+自增运算符的重载.obj : error LNK2005: "void __cdecl test_function(void)" (?test_function@@YAXXZ) 已经在 加法运算符的重载.obj 中定义
+D:\cplus\classes\运算符重载\Debug\运算符重载.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

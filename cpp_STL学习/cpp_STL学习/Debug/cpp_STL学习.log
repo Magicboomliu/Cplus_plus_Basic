@@ -1,0 +1,5 @@
+﻿  STL学习.cpp
+d:\cplus\classes\cpp_stl学习\cpp_stl学习\vector存储内置数据类型.h(42): warning C4018: “<”: 有符号/无符号不匹配
+d:\cplus\classes\cpp_stl学习\cpp_stl学习\vector容器的嵌套.h(23): warning C4018: “<”: 有符号/无符号不匹配
+d:\cplus\classes\cpp_stl学习\cpp_stl学习\vector容器的嵌套.h(25): warning C4018: “<”: 有符号/无符号不匹配
+  cpp_STL学习.vcxproj -> D:\cplus\classes\cpp_STL学习\Debug\cpp_STL学习.exe

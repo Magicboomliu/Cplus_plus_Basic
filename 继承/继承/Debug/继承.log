@@ -1,0 +1,5 @@
+﻿  使用虚函数实现动态多态.cpp
+  纯虚函数与抽象类.cpp
+  正在生成代码...
+纯虚函数与抽象类.obj : error LNK2005: "void __cdecl test(void)" (?test@@YAXXZ) 已经在 使用虚函数实现动态多态.obj 中定义
+D:\cplus\classes\继承\Debug\继承.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

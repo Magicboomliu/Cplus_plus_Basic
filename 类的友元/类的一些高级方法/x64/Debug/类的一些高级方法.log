@@ -1,0 +1,5 @@
+﻿  类作为友元.cpp
+类作为友元.obj : error LNK2005: "public: __cdecl Building::Building(void)" (??0Building@@QEAA@XZ) 已经在 全局函数做友元.obj 中定义
+类作为友元.obj : error LNK2005: "public: __cdecl Building::~Building(void)" (??1Building@@QEAA@XZ) 已经在 全局函数做友元.obj 中定义
+类作为友元.obj : error LNK2005: main 已经在 全局函数做友元.obj 中定义
+D:\cplus\classes\类的一些高级方法\x64\Debug\类的一些高级方法.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
