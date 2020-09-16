@@ -4,4 +4,4 @@
 
  ## 包括以下内容：
 * 你可以去以下视频网站查看视频教程：
-**https://www.bilibili.com/video/BV1et411b73Z?from=search&seid=10312610874585450252
+* https://www.bilibili.com/video/BV1et411b73Z?from=search&seid=10312610874585450252
