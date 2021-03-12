@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liuzihua/桌面/zihua/cpp_basic/Cplus_plus_Basic/Effective C++/C++ 对象一定要初始化/main.cpp
+iostream
+-
+vector
+-
+
